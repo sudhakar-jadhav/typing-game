@@ -1,3 +1,5 @@
+Game which suggests a particular word that has to be typed in the space provided based on which points are calculated in the given time
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
